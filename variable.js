@@ -12,3 +12,23 @@ var isSingle = true;
 //float, decimal: 2.40,
 
 //
+/**
+ * 1.single word
+ * no gap or space
+ * no quote
+ * no keyword
+ * can not start with number
+ * can not conatain dash
+ * should use camelCase
+ * 
+ */
+
+//math operation: +, - , * , /
+//shorthand: -=, +=, --
+
+//convert: parseInt, parseFloat
+//toFixed
+
+//rmainder: vagsesh: %
+
+//typeof = variable type detect
