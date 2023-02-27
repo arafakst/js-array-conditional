@@ -1,0 +1,35 @@
+// console.log(5 < 6); //greater than
+// console.log(5 > 6); //less than
+// console.log(5 == 6); //equal or not
+// console.log(6 == 6);
+//console.log(5 != 6);  //osoman kina 
+// console.log(15 != 15);
+
+//less than or equal
+// console.log(5 <= 6);
+// console.log(6 <= 6);
+// console.log(16 <= 6);
+
+//greater than or equal 
+// console.log(5 >= 6);
+// console.log(5 >= 2);
+// console.log(2 >= 2);
+
+//variable compare
+
+var num1 = 56;
+var num2 = 89;
+
+console.log(num1 < num2);
+console.log(num1 > num2);
+console.log(num1 === num2);
+console.log(num1 !== num2);
+console.log(num1 >= num2);
+console.log(num1 <= num2);
+
+//mutiple condition
+
+// money1 > money2 && result1 > result2 && height1 > height2
+//je kono ekta condtion
+// money1 > money2 || result1 > result2 || height1 > height2
+
